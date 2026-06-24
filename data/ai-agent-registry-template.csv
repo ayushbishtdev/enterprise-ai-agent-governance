@@ -1,0 +1,5 @@
+Agent_ID,Agent_Name,Business_Function,Human_Owner,Department,Risk_Tier,Foundational_Model,Data_Classification,API_Scopes_Granted,Kill_Switch_Configured,Hard_Expiration_Date,Audit_Status
+AG-001,SupportBot-Alpha,L1 Ticket Summarization,Sarah Jenkins,Customer Success,Low,GPT-4o-mini,Internal Confidential,Zendesk-Read-Only,Yes,2026-12-31,Compliant
+AG-002,FinMatch-Pro,Vendor Invoice Matching,David Chen,Finance,High,Claude 3.5 Sonnet,Highly Restricted,ERP-Write-Invoices,Yes,2026-09-30,Review Required
+AG-003,Shadow-Scraper-01,Competitor Pricing Scrape,UNASSIGNED,Marketing,Medium,Unknown-MCP-Local,Public Web,Unrestricted-Outbound,No,NONE,CRITICAL-ORPHAN
+AG-004,HR-Screen-Assist,Candidate Resume Parsing,Maria Lopez,Human Resources,High,Azure OpenAI GPT-4,PII/Biometric,Workday-Read-Only,Yes,2026-08-15,Compliant
